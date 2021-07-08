@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-color: #E1E8EB;
+}
+
+h1{
+  color: #66BFBF;
+}
+.p1{
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: inset;
+  border-color: peachpuff;
+  border-width: 8px;
+  width: 80%
+
+}
+
+img:hover{
+  width: 300px
+}
+.Top {
+
+  background-image: url("https://c1.wallpaperflare.com/preview/830/150/561/sackcloth-sackcloth-textured-laptop-ipad.jpg");
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 300px;
+}
+h2{
+  color: #01937C;
+}
+p{
+  color: #40514E;
+}
